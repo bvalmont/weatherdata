@@ -1,0 +1,55 @@
+
+
+#two{background-color: lightseagreen;
+    border-color: lightseagreen;
+    
+    
+}
+
+#three{background-color: lightseagreen;
+    
+}
+
+#four{background-color: lightseagreen;
+ }
+
+
+#btnGroupDrop1{background-color: lightseagreen;
+    }
+
+
+.b{background-color: lightgrey}
+
+.summary{background-color: white;
+margin: 5% 0% 0% 0%;
+
+    }
+
+    .content-image {
+        max-width: 400px;
+       }
+       .content-image-small {
+        max-width: 150px;
+       }
+
+ #moved{left: 900px}
+ .subtitle{color: lightseagreen}
+ 
+ #dblock{color: lightseagreen}
+
+ #firstimage{padding: 30px;
+background-color: white}
+
+#six{color: gray}
+
+ 
+#fig1{border: 3px solid lightseagreen;}
+
+
+
+
+ @media only screen and (max-width: 680px) {
+    #moved {
+      left: 0px;
+    }
+  }
