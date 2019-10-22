@@ -21,8 +21,7 @@ Create a visualization dashboard website that has plots of weather data taken fr
    * A "Data" page that:
      * Displays a responsive table containing the data used in the visualizations.
      * The table must be a bootstrap table component.
-     * The data must come from exporting the .csv file as HTML, or converting it to HTML. Try using a tool you already know, pandas. * * *      * Pandas has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe.
-
+     * The data came from converting .csv  to HTML. 
     
     
 
